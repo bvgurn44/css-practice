@@ -1,0 +1,2 @@
+class BmacController < ApplicationController
+end
